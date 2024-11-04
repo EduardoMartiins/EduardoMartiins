@@ -7,8 +7,7 @@
 
 #
 
-<p align="center">Estudante de Análise e Desenvolvimento de Sistemas na Faculdade de Engenharia de Sorocaba. Atualmente trabalho com Go e estudo Java paralelamente.
-Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
+<p align="center">Atualmente atuo como auxiliar administrativo em órgão público, com experiência em criação de ofícios e gestão de comunicação. Cursando pós-graduação e em busca de uma oportunidade para iniciar minha trajetória em programação e desenvolver minhas habilidades na área./ I currently work as an administrative assistant in a public body, with experience in creating letters and communication management. Studying postgraduate studies and looking for an opportunity to start my career in programming and develop my skills in the area.</p>
   
 #
 
@@ -41,10 +40,10 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 <div style="text-align: center;" align="center">
   <h3>* GitHub Stats *</h3>
   <br>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=EduardoMartiins&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=Dracula" alt="GitHub stats">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=EduardoMartiins&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=00A8FF&text_color=FFF&border_radius=3&border_color=00A8FF&icon_color=00A8FF&theme=Dracula" alt="GitHub stats">
 
   <a href="https://github.com/EduardoMartiins/github-readme-stats">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mari4souza&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FF00F6&hide=html,scss,less&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=561760&count_private=true" alt="Most Used Languages">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=EduardoMartiins&line_height=25&card_width=400&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=00A8FF&hide=html,scss,less&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=00A8FF&count_private=true" alt="Most Used Languages">
   </a>
 </div>
 
