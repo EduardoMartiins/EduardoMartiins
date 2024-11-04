@@ -11,6 +11,8 @@
   
 #
 
+<img align="right" alt="" height="190px" src="https://github.com/user-attachments/assets/23351404-d833-453d-a5bc-b532874982fd">
+
 <h3 align="left">Connect with me!</h3>
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:eduphilipe8@Outlook.com)
@@ -32,9 +34,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="25" alt="mysql logo"  />
   <img width="8" />
 </div>
-
-<img align="right" alt="" height="190px" src="https://github.com/user-attachments/assets/9016a917-d635-4c60-81b1-60122da86991">
-
 
 #
 
