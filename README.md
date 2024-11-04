@@ -27,11 +27,11 @@ Atualmente atuo como auxiliar administrativo em órgão público, com experiênc
 </p>
 
 <!--Redes Sociais-->
-<p align="left">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduardo-martins-5231871a4/" alt="LinkedIn"/></a>
-  <img src="https://img.shields.io/badge/-Email-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=https://criarmeulink.com.br/u/1730728840" alt="Outlook"/></a>
-</p>
-
+ <div>
+  <a href="https://www.linkedin.com/in/eduardo-martins-5231871a4/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://instagram.com/eduardomrtns__" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:eduphilipe8@Outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a><p></p>
+  
  <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EduardoMartiins/EduardoMartiins/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EduardoMartiins/EduardoMartiins/output/github-contribution-grid-snake.svg">
