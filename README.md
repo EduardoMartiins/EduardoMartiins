@@ -15,8 +15,11 @@ Atualmente atuo como auxiliar administrativo em órgão público, com experiênc
   <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
   
 <p align="left">
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iuricode&show_icons=true)
-</p>
+<br/>
+<a href="https://github.com/iuricode" title="Perfil do Eduardo/Eduardo's profile">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EduardoMartiins&theme=dracula&show_icons=true" />
+</a>
+
 
 <p align="left">
   💌 Para entrar em contato comigo/ To contact me: ⤵️
