@@ -34,10 +34,32 @@
 #
 
 <div style="text-align: center;" align="center">
-  <h3>* GitHub Stats *</h3>
-<img src="https://camo.githubusercontent.com/b80542ddb7afbc70d9f88eeb6ac77c69a109d6684215b548f532286308005243/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c61726176656c2d2532334646324432302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6c61726176656c266c6f676f436f6c6f723d7768697465" alt="Laravel" data-canonical-src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&amp;logo=laravel&amp;logoColor=white" style="max-width: 100%;">
+  <h3>* Back-end *</h3>
+
+  <img src="https://camo.githubusercontent.com/a7fff07e5cafec1541292e8ded465ab230075fc069fe23317dbb317b3bbaf65d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7068702d2532333737374242342e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d706870266c6f676f436f6c6f723d7768697465" alt="PHP" data-canonical-src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&amp;logo=php&amp;logoColor=white" style="max-width: 100%;">
   
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/b80542ddb7afbc70d9f88eeb6ac77c69a109d6684215b548f532286308005243/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c61726176656c2d2532334646324432302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6c61726176656c266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/b80542ddb7afbc70d9f88eeb6ac77c69a109d6684215b548f532286308005243/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c61726176656c2d2532334646324432302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6c61726176656c266c6f676f436f6c6f723d7768697465" alt="Laravel" data-canonical-src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&amp;logo=laravel&amp;logoColor=white" style="max-width: 100%;"></a>
+<img src="https://camo.githubusercontent.com/b80542ddb7afbc70d9f88eeb6ac77c69a109d6684215b548f532286308005243/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c61726176656c2d2532334646324432302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6c61726176656c266c6f676f436f6c6f723d7768697465" alt="Laravel" data-canonical-src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&amp;logo=laravel&amp;logoColor=white" style="max-width: 100%;">
+
+<img src="https://camo.githubusercontent.com/84e0999fa027dedfb31a169d54da33fd98f9691c0b3aba4687a0e0a64cede44d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d7973716c2d2532333030662e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6d7973716c266c6f676f436f6c6f723d7768697465" alt="MySQL" data-canonical-src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" style="max-width: 100%;">
+
+<img src="https://camo.githubusercontent.com/6b277c2c0f4a41d96fd322ea28be0a9757b382404e90573a0e79edbc990e979a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6170616368652d2532334434323032392e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d617061636865266c6f676f436f6c6f723d7768697465" alt="Apache" data-canonical-src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&amp;logo=apache&amp;logoColor=white" style="max-width: 100%;">
+
+<h3>* Front-end *</h3>
+
+<img src="https://camo.githubusercontent.com/d4d9d935f85b68223a3514c6a889ea3ed6a77afb5f560c05baa1a1b168077830/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f68746d6c352d2532334533344632362e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465" alt="HTML5" data-canonical-src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&amp;logo=html5&amp;logoColor=white" style="max-width: 100%;">
+
+<img src="https://camo.githubusercontent.com/930c71eac967cc5cec61c0aa08ba3719f9cb68e28cdffa63b28b0a31be1663b4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f637373332d2532333135373242362e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d7768697465" alt="CSS3" data-canonical-src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&amp;logo=css3&amp;logoColor=white" style="max-width: 100%;">
+
+<img src="https://camo.githubusercontent.com/29d02b3669d6450d67e043cf5909e740dcb94c1e2306d88ac48b15b4ec55dc65/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176617363726970742d2532333332333333302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d253233463744463145" alt="JavaScript" data-canonical-src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&amp;logo=javascript&amp;logoColor=%23F7DF1E" style="max-width: 100%;">
+
+<img src="https://camo.githubusercontent.com/0d7ef95b10e93801a3bd8637bec636064d518a4c73366504ed50b04cf32a5727/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f626f6f7473747261702d2532333536334437432e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d626f6f747374726170266c6f676f436f6c6f723d7768697465" alt="Bootstrap" data-canonical-src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&amp;logo=bootstrap&amp;logoColor=white" style="max-width: 100%;">
+
+<img src="https://camo.githubusercontent.com/b2eac0f505dfd05c25acf8c285b5eb346916090126c8836c6cbf9aeb754eac32/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7461696c77696e646373732d2532333338423241432e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d7461696c77696e642d637373266c6f676f436f6c6f723d7768697465" alt="TailwindCSS" data-canonical-src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&amp;logo=tailwind-css&amp;logoColor=white" style="max-width: 100%;">
+
+
+<img src="https://camo.githubusercontent.com/9488873e99da337edf9b00aff473e593e96df2f3e01262550045d8f811aae3d0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7675656a732d2532333335343935652e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d767565646f746a73266c6f676f436f6c6f723d253233344643303844" alt="Vue.js" data-canonical-src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&amp;logo=vuedotjs&amp;logoColor=%234FC08D" style="max-width: 100%;">
+
+
   <br>
   </a>
 </div>
