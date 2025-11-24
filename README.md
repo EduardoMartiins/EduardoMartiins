@@ -7,8 +7,7 @@
 
 <p align="center"> Desenvolvedor PHP Full Stack Júnior, com formação em Engenharia de Software e experiência anterior na área administrativa pública.
 Trago uma combinação de visão analítica, organização e foco em resultados para o desenvolvimento de sistemas web em PHP, Laravel e Vue.js. Apaixonado por transformar processos manuais em soluções automatizadas e inteligentes.
-#
-
+</p>
 <img align="right" alt="" height="190px" src="https://github.com/user-attachments/assets/23351404-d833-453d-a5bc-b532874982fd">
 
 <h3 align="left">Connect with me!</h3>
