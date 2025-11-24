@@ -5,7 +5,8 @@
 
 <img align="center" alt="" src="./src/header-gif.gif">
 
-<p align="center"> Atualmente atuo como auxiliar administrativo em órgão público, com experiência em criação de ofícios e gestão de comunicação. Cursando pós-graduação e em busca de uma oportunidade para iniciar minha trajetória em programação e desenvolver minhas habilidades na área./ I currently work as an administrative assistant in a public body, with experience in creating letters and communication management. Studying postgraduate studies and looking for an opportunity to start my career in programming and develop my skills in the area.
+<p align="center"> Desenvolvedor PHP Full Stack Júnior, com formação em Engenharia de Software e experiência anterior na área administrativa pública.
+Trago uma combinação de visão analítica, organização e foco em resultados para o desenvolvimento de sistemas web em PHP, Laravel e Vue.js. Apaixonado por transformar processos manuais em soluções automatizadas e inteligentes.
 #
 
 <img align="right" alt="" height="190px" src="https://github.com/user-attachments/assets/23351404-d833-453d-a5bc-b532874982fd">
