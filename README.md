@@ -5,8 +5,7 @@
 
 <img align="center" alt="" src="./src/header-gif.gif">
 
-<p align="center">Atualmente atuo como auxiliar administrativo em órgão público, com experiência em criação de ofícios e gestão de comunicação. Cursando pós-graduação e em busca de uma oportunidade para iniciar minha trajetória em programação e desenvolver minhas habilidades na área./ I currently work as an administrative assistant in a public body, with experience in creating letters and communication management. Studying postgraduate studies and looking for an opportunity to start my career in programming and develop my skills in the area.</p>
-  
+<p align="center"> Atualmente atuo como auxiliar administrativo em órgão público, com experiência em criação de ofícios e gestão de comunicação. Cursando pós-graduação e em busca de uma oportunidade para iniciar minha trajetória em programação e desenvolver minhas habilidades na área./ I currently work as an administrative assistant in a public body, with experience in creating letters and communication management. Studying postgraduate studies and looking for an opportunity to start my career in programming and develop my skills in the area.
 #
 
 <img align="right" alt="" height="190px" src="https://github.com/user-attachments/assets/23351404-d833-453d-a5bc-b532874982fd">
