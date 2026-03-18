@@ -17,8 +17,7 @@ Trago uma combinação de visão analítica, organização e foco em resultados 
 <h3 align="left">Connect with me!</h3>
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=00A8FF&color:FFF)](mailto:eduphilipe8@Outlook.com)
-
-[![LinkedIn](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=00A8FF&color:FFF)](https://www.linkedin.com/in/eduardo-martins-5231871a4/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-martins-5231871a4/)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=00A8FF&color:FFF)](https://www.instagram.com/eduardomrtns__/)
 
 #
