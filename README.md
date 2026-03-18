@@ -25,7 +25,7 @@ Trago uma combinação de visão analítica, organização e foco em resultados 
 <div style="text-align: center;" align="center">
   <h3>* Back-end *</h3>
 
- ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+<p> ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) </p>
   
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 
