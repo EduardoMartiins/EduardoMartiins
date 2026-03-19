@@ -95,9 +95,3 @@ Passionate about transforming manual processes into modern, automated, and intel
 > Transformar problemas reais em soluções simples, úteis e bem construídas.
 
 ---
-
-## 📫 Contato
-
-- Email: **eduphilipe8@outlook.com**
-- LinkedIn: **linkedin.com/in/eduardo-martins-5231871a4**
-- Instagram: **@eduardomrtns__**
