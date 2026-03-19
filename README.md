@@ -1,4 +1,8 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&center=true&width=435&lines=Welcome+to+my+profile+%3A)" alt="Typing SVG" /></a>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&center=true&width=435&lines=Welcome+to+my+profile+%F0%9F%9A%80+%3A)" alt="Typing SVG" /></a>
+  </a>
+</p>
 
 <p align="center">
   <strong>Desenvolvedor Full Stack PHP</strong><br>
